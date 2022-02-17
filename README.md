@@ -1,2 +1,3 @@
-# Countdown-Timer-Python
- The clock used to count down
+# Countdown Timer Python
+
+To run the program, please install the necessary libraries first.
